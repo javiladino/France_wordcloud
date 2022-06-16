@@ -54,9 +54,9 @@ Needless to say, this is just my opinion and one more interpretation of the mess
 
 ## References
 
-https://github.com/amueller/word_cloud/
-https://www.vie-publique.fr/discours/202852-declaration-de-m-emmanuel-macron-president-de-la-republique-sur-les-p
-https://www.vie-publique.fr/discours/285059-emmanuel-macron-07052022-investiture-president-de-la-republique
-https://matplotlib.org/
+* https://github.com/amueller/word_cloud/
+* https://www.vie-publique.fr/discours/202852-declaration-de-m-emmanuel-macron-president-de-la-republique-sur-les-p
+* https://www.vie-publique.fr/discours/285059-emmanuel-macron-07052022-investiture-president-de-la-republique
+* https://matplotlib.org/
 
 This project is implemented following <a href="https://www.linkedin.com/in/novelo-luis/">Luis Novelo tutorial</a> that you can find in his <a href="https://github.com/PhinanceScientist">GitHub</a>, thanks to him and his courses in Platzi I am very motivated to never stop learning.
